@@ -1,4 +1,7 @@
 Certain links were useful during the completion of the project:
+
+PEP-8 standard was strictly followed.
+Exception handling is done.
 ===========================================================================================================================
 https://stackoverflow.com/questions/38933071/group-by-two-columns-and-count-the-occurrences-of-each-combination-in-pandas
 https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
